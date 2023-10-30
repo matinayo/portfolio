@@ -1,3 +1,3 @@
 # portfolio
 
-<a href="https://abdulmatin.netlify.app">https://abdulmatin.netlify.app</a>
+<a href="https://matinayo.netlify.app">https://matinayo.netlify.app</a>
